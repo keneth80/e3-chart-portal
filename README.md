@@ -120,3 +120,4 @@ The clarity-seed project is licensed under the MIT license.
 
 If you find a bug or want to request a new feature, please open a [GitHub issue](https://github.com/vmware/clarity-seed/issues).
 # e3-chart-portal
+# e3-chart-portal
